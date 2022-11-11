@@ -1,0 +1,48 @@
+body{
+    width: 100%;
+    height: 800px;
+    align-items: center;
+}
+
+.carousel{
+    width: 80%;
+    margin-left: 140px;
+    padding: 50px;
+    box-shadow: 0 0 30 black;
+    
+  
+}
+
+
+.carousel-inner{
+    box-shadow: 0 0 10px black;
+}
+
+
+nav{
+    margin-bottom: 20px;
+    width: 100%;
+    
+}
+
+table{
+    margin-left:50px;
+    background-color: bisque;
+    
+}
+
+.content1{
+    margin-left:80px ;
+    
+}
+
+p{
+    margin-right: 40px;
+}
+
+.btn{
+    margin: 10px;
+    margin-left: 80px;
+   
+}
+
